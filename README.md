@@ -8,5 +8,5 @@
 ```powershell -File "C:\Users\Administrator\Documents\checkWiFi.ps1"```
 
 Для пинга с определённого интерфейса можно указать явным образом шлюз, привязанный к одному из интерфейсов
-```ping -k 192.169.1.1 microsoft.com
-        ^ default gateway for desired interface```
+```ping -k 192.169.1.1 microsoft.com```
+```        ^ default gateway for desired interface```
